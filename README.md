@@ -1,4 +1,7 @@
-# PCG-based-heart-heath-montioring 
+# PCG-based-heart-heath-montioring #
+![GitHub language count](https://img.shields.io/github/languages/count/sarrthak/PCG-based-heart-heath-montioring?logo=GitHub)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sarrthak/PCG-based-heart-heath-montioring)
+
 A MATLAB interface to read PCG signals from a live machine and then classifying it as Normal or Abnormal. We have used signal processing toolbox to extract features from the plot. The features were then used as parameters on standard ML algorithms to classify the PCG signals as Regular or Irregular. 
 
 ML models that we have used are: 
@@ -7,7 +10,7 @@ ML models that we have used are:
 3) Linear Discriminant
 4) Quadratic Discriminant
 
-# Results
+## Results ##
 1. Accuracy for ML models
 
 ![image](https://user-images.githubusercontent.com/31880143/129004643-a6ee6d90-8b99-4a98-980d-76b6d754ec27.png)
