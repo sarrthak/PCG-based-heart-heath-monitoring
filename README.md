@@ -1,4 +1,4 @@
-# PCG-based-heart-heath-montioring #
+# PCG-based-heart-heath-monitoring #
 ![GitHub language count](https://img.shields.io/github/languages/count/sarrthak/PCG-based-heart-heath-montioring?logo=GitHub)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sarrthak/PCG-based-heart-heath-montioring)
 
