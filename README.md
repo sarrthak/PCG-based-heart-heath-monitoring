@@ -1,0 +1,2 @@
+# PCG-based-heart-heath-montioring-
+A MATLAB interface to read PCG signals from a live machine and then classifying it as Normal or Abnormal. We have used signal processing toolbox to extract features from the plot. The features were then used as parameters on standard ML algorithms to classify the PCG signals as Regular or Irregular. ML models used: 1) KNN, 2) Decision Tree, 3) Linear Discriminant, 4) Quadratic Discriminant
